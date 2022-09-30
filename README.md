@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kozha Akhmet</h1>
-<p>🌱 I’m currently learning <b>Game Development, Electronics.</b></p>
 
+- 🌱 I’m currently learning <b>Game Development, Electronics.</b>
+
+- 👨‍💻 All of my projects are available at <a href="https://github.com/stars/KozhaAkhmet/lists/blue-book-portfolio"> <b>GitHub Portfolio.</b></a>
+
+- 📫 How to reach me **kozha.akhmt@gmail.com**
 
 <div align="center">
     <br>
@@ -43,5 +47,14 @@
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="kozhakhmt" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/user:20129833" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20129833" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/kozha akhmet abdramanov" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kozha akhmet abdramanov" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/@kozha24082001" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kozha24082001" height="30" width="40" />
     </a>
 </div>
