@@ -47,13 +47,13 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="kozhakhmt" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/user:20129833" target="blank">
+    <a href="https://stackoverflow.com/users/20129833/astranot" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20129833" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/c/kozha akhmet abdramanov" target="blank">
+    <a href="https://www.youtube.com/channel/UCjY5s1luoFM2eUnsywFI9AA" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kozha akhmet abdramanov" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/@kozha24082001" target="blank">
+    <a href="https://www.hackerrank.com/kozha24082001" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kozha24082001" height="30" width="40" />
     </a>
 </div>
