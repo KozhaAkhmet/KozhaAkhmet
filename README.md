@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kozha Akhmet</h1>
+I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey. Beside my education I`m studying and making device`s that solves specific problems. 
+
+
+- Interested in fileds like:
+
+**Robotics, IoT, Electronics, Embedded Prog, Kinematics, Math Equations, Simulations, Game Prog.**
 
 - 🌱 I’m currently learning <b>Game Development, Electronics.</b>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/stars/KozhaAkhmet/lists/blue-book-portfolio"> <b>GitHub Portfolio.</b></a>
 
 - 📫 How to reach me **kozha.akhmt@gmail.com**
+
 
 <div align="center">
     <h1>Languages & Tools</h1>
