@@ -6,7 +6,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey. Beside m
 
 **Robotics, IoT, Electronics, Embedded Prog, Kinematics, Math Equations, Simulations, Game Prog.**
 
-- 🌱 I’m currently learning <b>Game Development, Electronics.</b>
+- 🌱 I’m currently learning <b>ROS, Differetial Equations, Analytic Geometry. (Slowly diving into Control Eng)</b>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/stars/KozhaAkhmet/lists/blue-book-portfolio"> <b>GitHub Portfolio.</b></a>
 
