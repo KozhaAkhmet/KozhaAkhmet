@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kozha Akhmet</h1>
-I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey. Beside my education I`m studying and making device`s that solves specific problems. 
+I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey. 
 
 
-- Interested in fileds like:
+- Highly interested in Robotics but olso like:
 
-**Robotics, IoT, Electronics, Embedded Prog, Kinematics, Math Equations, Simulations, Game Prog.**
+**IoT, Electronics, Embedded Prog, Math, Simulations, Game Prog, 3D printing, Handcrafting.**
 
-- 🌱 I’m currently learning <b>ROS, Simulations, Differetial Equations, Analytic Geometry. (Slowly diving into Control Eng)</b>
+- I’m currently learning <b>ROS 2, Machine Learing, Differetial Equations, .</b>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/stars/KozhaAkhmet/lists/blue-book-portfolio"> <b>GitHub Portfolio.</b></a>
-
-- 📫 How to reach me **kozha.akhmt@gmail.com**
-
+- All of my projects are available at <a href="https://github.com/stars/KozhaAkhmet/lists/mortar-board-projects"> <b>GitHub Portfolio.</b></a>
 
 <div align="center">
     <h1>Languages & Tools</h1>
