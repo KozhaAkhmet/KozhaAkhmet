@@ -51,6 +51,24 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 <div align="center">
 	<br><br>
     <h1 align="center">Contact Me</h1>
+    
+    <a href="https://www.linkedin.com/in/kozha-akhmet-abdramanov-891144197">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+		</a>
+	<a href="mailto:kozha.akhmt@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-%23b01a1a.svg?&style=for-the-badge&logo=google&logoColor=white">
+		</a>
+	<a href="https://instagram.com/kozhakhmt">
+		<img src="https://img.shields.io/badge/Instagram-%23d21b49.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+		</a>
+	<a href="https://www.youtube.com/channel/UCjY5s1luoFM2eUnsywFI9AA">
+		<img src="https://img.shields.io/badge/Youtube-%23d83535.svg?&style=for-the-badge&logo=Youtube&logoColor=white">
+		</a>
+	<a href="https://www.hackerrank.com/kozha24082001">
+		<img src="https://img.shields.io/badge/HR-%2327820a.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white">
+		</a>
+	
+<!--
     <a href="https://twitter.com/akhmet_kozha" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
