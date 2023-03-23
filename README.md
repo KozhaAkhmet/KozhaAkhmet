@@ -67,30 +67,4 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 	<a href="https://www.hackerrank.com/kozha24082001">
 		<img src="https://img.shields.io/badge/HR-%2327820a.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white">
 		</a>
-	
-<!--
-    <a href="https://twitter.com/akhmet_kozha" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="akhmet_kozha" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/kozha-akhmet-abdramanov-891144197" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="kozha-akhmet-abdramanov" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/kozhakhmt" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="kozhakhmt" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/20129833/astranot" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20129833" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCjY5s1luoFM2eUnsywFI9AA" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kozha akhmet abdramanov" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/kozha24082001" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kozha24082001" height="30" width="40" />
-    </a>
 	</div>
