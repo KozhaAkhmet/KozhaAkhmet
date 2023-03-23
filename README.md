@@ -13,33 +13,18 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 <div align="center">
 	<div>
 		<img align="left"
-			src="https://github-readme-stats.vercel.app/api/top-langs?
-			username=kozhaakhmet
-			&show_icons=true
-			&locale=en
-			&hide=shaderlab
-			&theme=tokyonight
-			&layout=
-			&langs_count=20
-			&custom_title=
-			&card_width=2
-			&hide_progress=
-			&hide_title=true
-			&disable_animations=true
-			&hide_border=true
-			"
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=kozhaakhmet&show_icons=true&locale=en&hide=shaderlab&theme=tokyonight&layout=&langs_count=20&custom_title=&card_width=2&hide_progress=&hide_title=true&disable_animations=true&hide_border=true"
 			alt="kozhaakhmet" 
 			height="330"
-			width ="" />
+			width ="300" />
 		<img align="right"
-			src="https://github-readme-stats.vercel.app/api?username=kozhaakhmet&show_icons=true&locale=en&theme=tokyonight&hide=contribs&show_icons=true&hide_border=true&hide_rank=true&hide_title=true 
-			"
+			src="https://github-readme-stats.vercel.app/api?username=kozhaakhmet&show_icons=true&locale=en&theme=tokyonight&hide=contribs&show_icons=true&hide_border=true&hide_rank=true&card_width=&custom_title=&hide_title=true"
 			alt="kozhaakhmet"
 			height="140"
-			width="" />
+			width="500" />
 		</div>
 	</div>
-<!--
+
 <div  align="center" >
 	<br><br><br><br><br><br><br>
 	<h2>My Tools:</h2>
@@ -60,7 +45,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 			alt="Raspberry Pi" width="40" height="40" /> 
  </div>
 
-<!--
+
 <div align="center">
 	<br><br>
     <h1 align="center">Contact Me</h1>
