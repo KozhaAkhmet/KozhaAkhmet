@@ -41,8 +41,6 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 			&show_icons=true
 			&hide_border=true
 			&hide_rank=true
-			&card_width=
-			&custom_title=
 			&hide_title=true 
 			"
 			alt="kozhaakhmet"
