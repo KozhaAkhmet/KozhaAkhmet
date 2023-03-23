@@ -32,16 +32,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 			height="330"
 			width ="" />
 		<img align="right"
-			src="https://github-readme-stats.vercel.app/api?
-			username=kozhaakhmet
-			&show_icons=true
-			&locale=en
-			&theme=tokyonight
-			&hide=contribs
-			&show_icons=true
-			&hide_border=true
-			&hide_rank=true
-			&hide_title=true 
+			src="https://github-readme-stats.vercel.app/api?username=kozhaakhmet&show_icons=true&locale=en&theme=tokyonight&hide=contribs&show_icons=true&hide_border=true&hide_rank=true&hide_title=true 
 			"
 			alt="kozhaakhmet"
 			height="140"
