@@ -48,7 +48,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 
 <div align="center">
 	<br><br>
-    <h1 align="center">Contact Me</h1>
+    <h2 align="center">Contact Me</h2>
     <a href="https://twitter.com/akhmet_kozha" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
