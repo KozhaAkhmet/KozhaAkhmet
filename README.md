@@ -12,7 +12,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 
 <div align="center">
     <h1>Languages & Tools</h1>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <a> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
              alt="arduino" width="40" height="40" /> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
@@ -25,7 +25,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
             alt="python" width="40" height="40" /> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" 
              alt="unity" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/godotengine/godotengine-icon.svg" 
+        <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" 
              alt="godot" width="40" height="40" />
      </a>
 
