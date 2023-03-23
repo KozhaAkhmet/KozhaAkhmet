@@ -4,9 +4,9 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 
 - Highly interested in Robotics but olso like:
 
-**IoT, Electronics, Embedded Prog, Math, Simulations, Game Prog, 3D printing, Handcrafting.**
+     **IoT, Electronics, Embedded Prog, Math, Simulations, Game Prog, 3D printing, Handcrafting.**
 
-- I’m currently learning <b>ROS 2, Machine Learing, Differetial Equations, .</b>
+- I’m currently learning <b>ROS 2, Machine Learing, Differetial Equations.</b>
 
 - All of my projects are available at <a href="https://github.com/stars/KozhaAkhmet/lists/mortar-board-projects"> <b>my gitHub.</b></a>
 
