@@ -8,7 +8,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 
 - I’m currently learning **ROS 2, Machine Learing, Differetial Equations.**
 
-- All of my projects are available at [my github](https://github.com/stars/KozhaAkhmet/lists/mortar-board-projects).
+- All of my projects are available at [my github projects](https://github.com/stars/KozhaAkhmet/lists/mortar-board-projects).
 
 ---
 
