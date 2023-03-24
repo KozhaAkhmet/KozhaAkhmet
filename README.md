@@ -20,7 +20,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 			height="330"
 			width ="300" />
 		<img align="right"
-			src="https://github-readme-stats.vercel.app/api?username=kozhaakhmet&show_icons=true&locale=en&theme=tokyonight&hide=contribs&hide_border=true&hide_rank=false&card_width=&custom_title=----------------Stats------------------&hide_title=False"
+			src="https://github-readme-stats.vercel.app/api?username=kozhaakhmet&show_icons=true&locale=en&theme=tokyonight&hide=contribs&hide_border=true&hide_rank=false&card_width=&custom_title=--------------------Stats----------------------&hide_title=False"
 			alt="kozhaakhmet"
 			height="150"
 			width="500" />
