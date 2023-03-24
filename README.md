@@ -15,7 +15,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 <div align="center">
 	<div>
 		<img align="left"
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=kozhaakhmet&show_icons=true&locale=en&hide=shaderlab,hlsl&theme=tokyonight&layout=&langs_count=20&custom_title=------------Languages------------&card_width=2&hide_progress=&hide_title=false&disable_animations=true&hide_border=true"
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=kozhaakhmet&show_icons=true&locale=en&hide=shaderlab,hlsl,jupyter%20notebook&theme=tokyonight&layout=&langs_count=20&custom_title=------------Languages------------&card_width=2&hide_progress=&hide_title=false&disable_animations=true&hide_border=true"
 			alt="kozhaakhmet" 
 			height="330"
 			width ="300" />
