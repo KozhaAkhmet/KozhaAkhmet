@@ -29,22 +29,22 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 
 <div  align="center" >
 	<br><br><br><br><br><br><br>
-	<h2>My Tools:</h2>
+	<h2>Actively Using:</h2>
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
 			alt="linux" width="40" height="40" /> 
-		<img
-			src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" 
-			alt="unity" width="40" height="40" />
-		<img
-			src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" 
-			alt="godot" width="40" height="40" />
 		<img
 			src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
 			alt="arduino" width="40" height="40" /> 
 		<img
 			src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"
 			alt="Raspberry Pi" width="40" height="40" /> 
+		<img
+			src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" 
+			alt="unity" width="40" height="40" />
+		<img
+			src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" 
+			alt="godot" width="40" height="40" />
  </div>
 
 
