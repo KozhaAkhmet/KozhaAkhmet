@@ -15,12 +15,12 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 <div align="center">
 	<div>
 		<img align="left"
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=kozhaakhmet&show_icons=true&locale=en&hide=shaderlab,hlsl&theme=tokyonight&layout=&langs_count=20&custom_title=----------  Languages  ----------&card_width=2&hide_progress=&hide_title=false&disable_animations=true&hide_border=true"
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=kozhaakhmet&show_icons=true&locale=en&hide=shaderlab,hlsl&theme=tokyonight&layout=&langs_count=20&custom_title=------------Languages------------&card_width=2&hide_progress=&hide_title=false&disable_animations=true&hide_border=true"
 			alt="kozhaakhmet" 
 			height="330"
 			width ="300" />
 		<img align="right"
-			src="https://github-readme-stats.vercel.app/api?username=kozhaakhmet&show_icons=true&locale=en&theme=tokyonight&hide=contribs&hide_border=true&hide_rank=false&card_width=&custom_title=----------  Stats  ---------------------------- | ----- Rank -----&hide_title=False"
+			src="https://github-readme-stats.vercel.app/api?username=kozhaakhmet&show_icons=true&locale=en&theme=tokyonight&hide=contribs&hide_border=true&hide_rank=false&card_width=&custom_title=------------Stats----------------------------|------Rank------&hide_title=False"
 			alt="kozhaakhmet"
 			height="150"
 			width="500" />
