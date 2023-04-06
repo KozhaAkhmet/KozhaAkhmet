@@ -47,7 +47,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 			alt="godot" width="40" height="40" />
  </div>
 
-
+<!-->
 <div align="center">
 	<br><br>
     <h1 align="center">Contact Me</h1>
@@ -67,3 +67,4 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 		<img src="https://img.shields.io/badge/HR-%2327820a.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white">
 		</a>
 	</div>
+<!-->
