@@ -11,7 +11,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 - All of my projects are available at [my github projects](https://github.com/stars/KozhaAkhmet/lists/mortar-board-projects).
 
 ---
-
+<!--
 <div align="center">
 	<div>
 		<img align="left"
@@ -46,7 +46,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 			src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" 
 			alt="godot" width="40" height="40" />
  </div>
-
+-->
 <!--
 <div align="center">
 	<br><br>
