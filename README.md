@@ -6,7 +6,7 @@ I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey.
 
      **IoT, Electronics, Embedded Prog, Math, Simulations, Game Prog, 3D printing, Handcrafting.**
 
-- I’m currently learning **ROS 2, Machine Learing, Differetial Equations.**
+- I’m currently learning **Path Planning, Navigation, Advanced C++**
 
 - All of my projects are available at [my github projects](https://github.com/stars/KozhaAkhmet/lists/mortar-board-projects).
 
