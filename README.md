@@ -2,7 +2,7 @@
 I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey. 
 
 
-- Highly interested in Robotics but olso like:
+- Highly interested in Robotics and olso like:
 
      **IoT, Electronics, Embedded Prog, Math, Simulations, Game Prog, 3D printing, Handcrafting.**
 
