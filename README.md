@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kozha Akhmet</h1>
+<h1 align="center">Hi, I'm Kozha Akhmet</h1>
 I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey. 
-
 
 - Highly interested in Robotics and also like:
 
-     **IoT, Electronics, Embedded Prog, Math, Simulations, Game Prog, 3D printing, Handcrafting.**
-
-- I’m currently learning **Path Planning, Navigation, Advanced C++**
+     **Electronics, Embedded Programming, Game Programming, 3D printing, Handcrafting.**
 
 - All of my projects are available at [my github projects](https://github.com/stars/KozhaAkhmet/lists/mortar-board-projects).
 
