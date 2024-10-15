@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kozha Akhmet</h1>
-I`m from Kazakhstan. Currently studying Math Engineer degree in Turkey. 
+I`m from Kazakhstan. Currently graduated as Mathematical Engineer. Open to work.
 
 - Highly interested in Robotics and also like:
 
