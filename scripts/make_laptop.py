@@ -229,11 +229,10 @@ HEAD = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="
 </defs>
 <style>
   .e{{stroke:#0b0e13;stroke-opacity:.18;stroke-width:.6;stroke-linejoin:round}}
-  #glow, #bg{{display:none}}
-  /* dark mode: solid black background, no shadow or glow */
-  @media (prefers-color-scheme: dark){{ #bg{{display:inline}} #shadow{{display:none}} }}
+  #glow{{display:none}}
+  /* transparent background in both themes; dark mode drops the floor shadow */
+  @media (prefers-color-scheme: dark){{ #shadow{{display:none}} }}
 </style>
-<rect id="bg" width="{W}" height="{H}" fill="#000"/>
 '''
 
 
