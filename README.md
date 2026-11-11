@@ -1,4 +1,10 @@
-<h1 align="center">Hi there 👋</h1> <p align="center"> Software developer with a background in mathematics.<br> I build small robots, embedded devices and simulations — mostly in C++. </p> <p align="center"> <a href="https://akhmet.dev/"><b>Personal Website</b></a> </p> <p align="center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt"> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake"> </p>
+<div>
+  <img align="left" width="360" src="assets/laptop.svg" alt="Rotating 3D laptop">
+  <div align="center">
+    <h1 align="center">Hi there 👋</h1> <p align="center"> Software developer with a background in mathematics.<br> I build small robots, embedded devices and simulations — mostly in C++. </p> <p align="center"> <a href="https://akhmet.dev/"><b>Personal Website</b></a> </p> <p align="center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt"> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake"> </p>
+  </div>
+  <br clear="left">
+</div>
 
 ---
 
