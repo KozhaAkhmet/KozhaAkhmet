@@ -229,9 +229,11 @@ HEAD = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="
 </defs>
 <style>
   .e{{stroke:#0b0e13;stroke-opacity:.18;stroke-width:.6;stroke-linejoin:round}}
-  #glow{{opacity:0}}
-  @media (prefers-color-scheme: dark){{ #shadow{{opacity:.55}} #glow{{opacity:1}} }}
+  #glow, #bg{{display:none}}
+  /* dark mode: solid black background, no shadow or glow */
+  @media (prefers-color-scheme: dark){{ #bg{{display:inline}} #shadow{{display:none}} }}
 </style>
+<rect id="bg" width="{W}" height="{H}" fill="#000"/>
 '''
 
 
